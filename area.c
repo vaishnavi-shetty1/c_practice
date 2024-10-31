@@ -23,7 +23,7 @@ int main(){
 }
 
 float squarearea(float side){
-    return side + side;
+    return side * side;
 }
 float circlearea(float rad){
     return 3.14*rad*rad;
