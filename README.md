@@ -1,4 +1,4 @@
-#add.c 
+# add.c
 #sum 0f two integers
 
 This is a simple C program that takes two integers as input from the user and calculates their sum.
