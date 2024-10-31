@@ -10,20 +10,25 @@ int main(){
     switch (op)
     {
     case '+':
-        printf("%f+%f=%f\n",a,b,a+b);
+        printf("%f + %f = %f\n", a, b, a+b);
         break;
     case '-':
-        printf("%f-%f=%f\n",a,b,a-b);
+        printf("%f - %f = %f\n", a, b, a-b);
         break;
     case '*':
-        printf("%f*%f=%f\n",a,b,a*b);
+        printf("%f * %f = %f\n", a, b, a*b);
         break;
     case '/':
-        printf("%f/%f=%f\n",a,b,a/b);
+        if (b != 0) {
+            printf("%f / %f = %f\n", a, b, a / b);
+        } else {
+            printf("Error: Division by zero!\n");
+        }
         break;
     default:
-        printf("Invalid operator!");
+        printf("Invalid operator!\n");
         break;
     }
 
+    return 0;
 }
