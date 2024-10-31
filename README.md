@@ -9,8 +9,7 @@ Features
 - Displays the result in a formatted output.
 
 
-*area.c*
-
+# area.c
 #area calculator
 
 This C program calculates the areas of a square, circle, and rectangle based on user input.
@@ -21,8 +20,8 @@ This C program calculates the areas of a square, circle, and rectangle based on 
 - Calculates the area of a rectangle given its two side lengths.
 
 
-*calculator.c*
-# Simple Calculator
+# calculator.c
+#Simple Calculator
 
 This C program performs basic arithmetic operations: addition, subtraction, multiplication, and division on two numbers provided by the user.
 
