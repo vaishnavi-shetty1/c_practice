@@ -33,3 +33,14 @@ This C program performs basic arithmetic operations: addition, subtraction, mult
   - Multiplication (`*`)
   - Division (`/`)
 - Handles division by zero with an error message.
+
+
+# factorial.c
+#Factorial Calculator
+
+This C program calculates the factorial of a non-negative integer provided by the user.
+
+## Features
+
+- Calculates the factorial using a recursive function.
+- Handles input validation for non-negative integers.
