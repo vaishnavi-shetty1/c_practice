@@ -1,5 +1,4 @@
 # add.c
-#sum 0f two integers
 
 This is a simple C program that takes two integers as input from the user and calculates their sum.
 
@@ -10,7 +9,6 @@ This is a simple C program that takes two integers as input from the user and ca
 
 
 # area.c
-#area calculator
 
 This C program calculates the areas of a square, circle, and rectangle based on user input.
 
@@ -21,7 +19,6 @@ This C program calculates the areas of a square, circle, and rectangle based on 
 
 
 # calculator.c
-#Simple Calculator
 
 This C program performs basic arithmetic operations: addition, subtraction, multiplication, and division on two numbers provided by the user.
 
@@ -36,7 +33,6 @@ This C program performs basic arithmetic operations: addition, subtraction, mult
 
 
 # factorial.c
-#Factorial Calculator
 
 This C program calculates the factorial of a non-negative integer provided by the user.
 
