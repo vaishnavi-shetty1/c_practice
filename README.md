@@ -1,4 +1,5 @@
-add.c
+*add.c*
+
 #sum 0f two integers
 
 This is a simple C program that takes two integers as input from the user and calculates their sum.
@@ -9,7 +10,8 @@ Features
 - Displays the result in a formatted output.
 
 
-area.c
+*area.c*
+
 #area calculator
 
 This C program calculates the areas of a square, circle, and rectangle based on user input.
